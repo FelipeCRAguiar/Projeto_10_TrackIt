@@ -45,7 +45,7 @@ const Titulo = styled.div`
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
-    margin-top: 92px;
+    margin-top: 28px;
     box-sizing: border-box;
     padding-left: 17px;
     padding-right: 18px;

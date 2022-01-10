@@ -7,6 +7,9 @@ export default function Menu() {
             <Link to='/habitos'>
                 <p>Habitos</p>
             </Link>
+            <Link to='/hoje'>
+                <p>Hoje</p>
+            </Link>
             <Link to='/historico'>
                 <p>Historico</p>
             </Link>
