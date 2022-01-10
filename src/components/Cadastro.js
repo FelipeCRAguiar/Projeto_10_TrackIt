@@ -49,7 +49,7 @@ const Container = styled.div `
         button {
             width: 303px;
             height: 45px;
-            background: #52B6FF;
+            background-color: #52B6FF;
             border-radius: 4.63636px;
             font-family: Lexend Deca;
             font-size: 20.976px;
