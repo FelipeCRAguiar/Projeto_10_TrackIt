@@ -10,7 +10,9 @@ export default function Login() {
             <form>
                 <input type="email" placeholder='email'/>
 		        <input type="password" placeholder='senha'/>
-		        <button type="submit">Entrar</button>
+                <Link to='/habitos'>
+		            <button type="submit">Entrar</button>
+                </Link>
             </form>
             <Link to='/cadastro'>
                 <Redirecionar>
